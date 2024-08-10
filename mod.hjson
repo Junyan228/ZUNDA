@@ -1,0 +1,7 @@
+name: "zm"
+displayName: "ずんだMOD/ZUNDA MOD"
+author: junyan
+description: "ずんだ、およびずんだ餅がメインのMODですのだ。/This mod's main concepts are Zunda and Zunda-Mochi noda."
+version: "alpha-0.1"
+minGameVersion: "146"
+hidden: false
