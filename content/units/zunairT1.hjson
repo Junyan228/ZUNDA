@@ -9,8 +9,8 @@ engineOffset: 17
 rotateSpeed: 3
 omniMovement: true
 outlines: true
-trailLength: 8
+trailLength: 16
 engineSize: 2
 hitSize: 12
-lightRadius: 30
+lightRadius: 15
 itemCapacity: 30
