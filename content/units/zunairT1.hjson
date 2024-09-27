@@ -12,5 +12,5 @@ outlines: true
 trailLength: 16
 engineSize: 2
 hitSize: 12
-lightRadius: 15
+lightRadius: 30
 itemCapacity: 30
